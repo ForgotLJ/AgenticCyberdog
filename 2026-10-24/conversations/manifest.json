@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-24",
+  "timezone": "Asia/Shanghai",
+  "cutoff_utc": "2026-10-24T10:13:22.000Z",
+  "cutoff_local": "2026-10-24 18:13:22",
+  "local": [
+    {
+      "thread_id": "01a14a70-d183-7fe2-b56c-80c868e63278",
+      "title": "电子狗理论",
+      "source_path": "C:\\Users\\ForgotLJ\\.codex\\sessions\\2026\\10\\17\\rollout-2026-10-17T23-17-50-01a14a70-d183-7fe2-b56c-80c868e63278.jsonl",
+      "source_prefix_sha256": "47d8664c052f3f52a54de3bcd5df3292347e015a47edfa0b20c99cc6b95a0463",
+      "source_records_before_cutoff": 5164,
+      "messages": 316,
+      "today_messages": 222,
+      "tool_records": 1699,
+      "excluded_compaction_messages": 16,
+      "folder": "local-main"
+    },
+    {
+      "thread_id": "01a14ebe-bf57-7d12-b122-2cc4cd02271c",
+      "title": "配置狗的远程连接",
+      "source_path": "C:\\Users\\ForgotLJ\\.codex\\sessions\\2026\\10\\18\\rollout-2026-10-18T19-21-26-01a14ebe-bf57-7d12-b122-2cc4cd02271c.jsonl",
+      "source_prefix_sha256": "51802bf76987e16bdbf67bb7ddb416b414783333438d1cb4732e8c22c9eae36e",
+      "source_records_before_cutoff": 168,
+      "messages": 8,
+      "today_messages": 0,
+      "tool_records": 67,
+      "excluded_compaction_messages": 0,
+      "folder": "local-ssh"
+    },
+    {
+      "thread_id": "01a15e0c-3f61-70d1-a664-bf65817515b4",
+      "title": "Survey CyberDog control benchmarks",
+      "source_path": "C:\\Users\\ForgotLJ\\.codex\\sessions\\2026\\10\\21\\rollout-2026-10-21T18-40-23-01a15e0c-3f61-70d1-a664-bf65817515b4.jsonl",
+      "source_prefix_sha256": "e0949c502f3f48b358db72eea7eaf92f04386f42dcd1a51160f64b332a667907",
+      "source_records_before_cutoff": 305,
+      "messages": 18,
+      "today_messages": 5,
+      "tool_records": 108,
+      "excluded_compaction_messages": 0,
+      "folder": "local-survey"
+    }
+  ],
+  "remote": {
+    "thread_id": "01a16bf4-16fd-7822-92b1-9e847736d64d",
+    "title": "修复 Go2 运动方向并验证",
+    "original_full_session_retrieved": false,
+    "reason": "robot SSH and remote read_thread unavailable at export",
+    "recovered_messages": 72,
+    "coordination_records": 67,
+    "user_pasted_reports": 5,
+    "pasted_source_path": "C:\\Users\\ForgotLJ\\.codex\\attachments\\2d7a16ec-f7f9-4b93-a75f-40c278515e05\\已粘贴的文本.txt",
+    "pasted_source_sha256": "f0f987ba4bfaa2e92fc03c681dfd7edfe5d44a63bb2ecc9da1454b49644eda25",
+    "pasted_scope": "user supplied early thread export; not all later turns",
+    "last_snapshot_time": "2026-10-24T09:18:24.856Z"
+  },
+  "scope": "Project conversations; complete retained visible local messages through cutoff, partial remote recovery; credentials redacted; internal context excluded.",
+  "redactions": {
+    "text_values": 201
+  }
+}

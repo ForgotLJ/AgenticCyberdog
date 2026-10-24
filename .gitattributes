@@ -1,0 +1,9 @@
+* text=auto
+*.md text eol=lf
+*.json text eol=lf
+*.jsonl text eol=lf
+*.py text eol=lf
+*.zip binary
+*.jpg binary
+*.png binary
+SHA256SUMS text eol=lf

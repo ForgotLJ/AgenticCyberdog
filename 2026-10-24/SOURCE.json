@@ -1,0 +1,13 @@
+{
+  "date": "2026-10-24",
+  "timezone": "Asia/Shanghai",
+  "source_archive": "Go2-2026-10-24-日报与对话.zip",
+  "source_archive_sha256": "4618fcc768ce268cfc7a75698041e2b020fd91a16f8a906556eeda532571fb34",
+  "conversation_cutoff_local": "2026-10-24 18:13:22",
+  "remote_full_session_available": false,
+  "layout_changes": [
+    "flatten report folder under date",
+    "adjust report relative links",
+    "retain original archive.zip"
+  ]
+}
